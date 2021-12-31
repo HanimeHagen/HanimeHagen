@@ -1,4 +1,3 @@
 - 🙋🏼‍♂️ Hey, my name is Hagen and I am 17 years old. At the moment I attend the 12th grade of a high school.
 - 🔭 My interests are Japanese culture, as well as anime. Furthermore, I like mathematics and physics.
-- 🍃 At the moment I am learning the Spring Framework for Java.
 - ✉️ You can contact me on Discord under the name "Hagen#8868".
